@@ -4,3 +4,4 @@ scikit-learn>=1.0.0 # Required for model training, evaluation, and splitting
 lightgbm>=3.3.0 # Your chosen gradient boosting model
 shap>=0.40.0 # For model explainability (SHAP plots)
 matplotlib>=3.4.0 # Often needed for SHAP plots to render
+streamlit
